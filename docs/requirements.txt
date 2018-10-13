@@ -22,7 +22,7 @@ requests==2.19.1
 requests-file==1.4.3
 six==1.11.0
 snowballstemmer==1.2.1
-Sphinx==1.6.5
+Sphinx==1.8.1
 sphinx-autobuild==0.7.1
 sphinxcontrib-fulltoc==1.2.0
 sphinxcontrib-httpdomain==1.5.0
