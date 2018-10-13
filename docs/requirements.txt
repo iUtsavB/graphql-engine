@@ -16,7 +16,7 @@ MarkupSafe==1.0
 pathtools==0.1.2
 port-for==0.4
 Pygments==2.2.0
-pytz==2017.2
+pytz==2018.5
 PyYAML==3.13
 requests==2.18.4
 requests-file==1.4.2
