@@ -1,5 +1,5 @@
 alabaster==0.7.12
-algoliasearch==1.13.0
+algoliasearch==1.17.0
 argh==0.26.2
 Babel==2.5.1
 beautifulsoup4==4.6.0
