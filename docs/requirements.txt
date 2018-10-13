@@ -19,7 +19,7 @@ Pygments==2.2.0
 pytz==2018.5
 PyYAML==3.13
 requests==2.19.1
-requests-file==1.4.2
+requests-file==1.4.3
 six==1.11.0
 snowballstemmer==1.2.1
 Sphinx==1.6.5
