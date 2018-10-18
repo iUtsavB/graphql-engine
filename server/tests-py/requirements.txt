@@ -3,4 +3,4 @@ sqlalchemy
 requests==2.19.1
 pytest==3.9.1
 pyyaml
-websocket-client
+websocket-client==0.53.0
