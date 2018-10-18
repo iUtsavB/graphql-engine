@@ -1,6 +1,6 @@
-psycopg2-binary
 sqlalchemy==1.2.12
-pytest
-requests
-pyyaml
-websocket-client
+psycopg2-binary==2.7.5
+pyyaml==3.13
+requests==2.19.1
+pytest==3.9.1
+websocket-client==0.53.0
