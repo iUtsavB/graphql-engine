@@ -11,7 +11,7 @@ future==0.17.1
 idna==2.7
 imagesize==1.1.0
 Jinja2==2.10
-livereload==2.5.2
+livereload==2.6.0
 MarkupSafe==1.0
 pathtools==0.1.2
 port-for==0.4
