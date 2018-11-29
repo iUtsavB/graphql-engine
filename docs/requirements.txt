@@ -3,7 +3,7 @@ algoliasearch==1.17.0
 argh==0.26.2
 Babel==2.6.0
 beautifulsoup4==4.6.3
-certifi==2018.10.15
+certifi==2018.11.29
 chardet==3.0.4
 docutils==0.14
 fett==0.3.2
