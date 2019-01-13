@@ -1,7 +1,7 @@
-pytest==3.9.3
+pytest==4.1.1
 sqlalchemy==1.2.12
 psycopg2-binary==2.7.5
 pyyaml==3.13
 requests==2.20.0
-pytest==3.9.3
+pytest==4.1.1
 websocket-client==0.53.0
