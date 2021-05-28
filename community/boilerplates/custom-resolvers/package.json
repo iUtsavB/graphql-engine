@@ -20,6 +20,6 @@
     "node-fetch": "^2.1.2",
     "pg": "^7.4.3",
     "subscriptions-transport-ws": "^0.9.14",
-    "ws": "^6.0.0"
+    "ws": "^7.4.5"
   }
 }
